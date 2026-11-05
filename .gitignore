@@ -1,0 +1,7 @@
+target/
+*.rtf
+*.pdf
+*.docx
+*.xml
+*.png
+*.jar

@@ -1,0 +1,12 @@
+[package]
+name = "bip-rtf"
+version = "0.1.0"
+edition = "2024"
+description = "Inspect and make small edits to RTF templates made for Oracle BI Publisher, without breaking their tags"
+license = "MIT OR Apache-2.0"
+readme = "README.md"
+keywords = ["rtf", "bi-publisher", "template", "cli"]
+categories = ["command-line-utilities"]
+
+[dependencies]
+encoding_rs = "0.8.44"
